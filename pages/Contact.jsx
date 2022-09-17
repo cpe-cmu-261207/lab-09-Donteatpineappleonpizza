@@ -42,7 +42,11 @@ export default function Home() {
               <br /> <p1>Address :</p1> 6 Suthep rd. Amphoe Muang, Chiang Mai,
               Thailand 50200
               <br /> <p1>Facebook :</p1>
-              <a href="https://www.facebook.com/aomzkp" target="_blank">
+              <a
+                href="https://www.facebook.com/aomzkp"
+                target="_blank"
+                rel="noreferrer"
+              >
                 https://www.facebook.com/aomzkp
               </a>
               <br /> <p1>Email :</p1>
